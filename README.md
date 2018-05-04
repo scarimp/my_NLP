@@ -1,2 +1,2 @@
 # my_NLP
-Programmi di esmpio su Machine Learning in ambito Puthon
+Programmi di esempio su Machine Learning in ambito Python
