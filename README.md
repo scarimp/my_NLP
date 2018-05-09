@@ -12,7 +12,7 @@ Programmi di esempio su Machine Learning in ambito Python
 
 
 
-#Sample programs on Machine Learning in Python 
+# Sample programs on Machine Learning in Python 
 
 1. Example 1_NLP_nltk_gensim.ipynb on the google golab site, with the gensim library for word2vec and Glove text extraction. 
 2. Example my_3th_json_nlp.ipynb of data processing json. We want to highlight above all the phase of extraction and treatment with Pandas, of the tabular (vector) data contained in the data in json format. You can "view" here: 
