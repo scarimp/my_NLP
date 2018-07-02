@@ -12,7 +12,7 @@ Via P. Pozzi 16 , 00148 Roma
 1. Diploma Liceo Classico.
 2. Laurea Ing. Elettronica (spec. Telecomunicazioni). 
 3. Tesi in Cibernetica sviluppata c/o il Laboratorio di Cibernetica del CNR , sito in  Arco Felice (NA) . Il titolo della tesi era: ["Funzioni Booleane linearmente separabili e parametri di Chow"](https://www.cs.cmu.edu/~odonnell/papers/chow-params.pdf), e trattava dei temi che oggi sono di moda nell'ambito del Machine Learning.
-4. Articolo su ottimizzazione di una rete combinatoria (in collaborazione con la dott.ssa del Politecnico di Milano).
+4. Articolo su ottimizzazione di una rete combinatoria (in collaborazione con la dott.ssa... del Politecnico di Milano).
 
 
 # Didattica:
@@ -42,7 +42,7 @@ Fondazione della **Notte della Taranta**. Utilizzo di vari  tools software , sop
 
 #### FILEMAKER
 
-1. Sviluppo Software  peril **CRM**  la gestione ticket di un laboratorio di acquisto e sostituzione parti di prodotti Apple, Samsung , HP etc. Il software e' stato sviluppato utilizzando la  soluzione Filemaker.
+1. Sviluppo Software  per il **CRM**  la gestione ticket di un laboratorio di acquisto e sostituzione parti di prodotti Apple, Samsung , HP etc. Il software e' stato sviluppato utilizzando la  soluzione Filemaker.
 2. Utilizzando i Web services esposti da Konga , [Software di gestione aziendale](https://www.easybyte.it/it),  e' stata implementata , con filemaker, una gestione del portfolio degli agenti di vendita.
 3. Utilizzo dei  Web services esposti da Konga ,per la creazionein Konga  degli ordini [MEPA](https://www.acquistinretepa.it/opencms/opencms/)  in manuale o quando possibile mediante file **XML** acclusi all'ordine . 
 
