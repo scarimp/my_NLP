@@ -40,7 +40,7 @@ Fondazione della **Notte della Taranta**. Utilizzo di vari  tools software , sop
 3. Produzione di documentazione tecnica e manualistica in vari formati (PDF DOC TXT) ,  utilizzando  Schemas XML  e DDT forniti dal framework [Docbook](https://docbook.org/whatis).
 
 
-#### FILEMAKER
+#### FILEMAKER (alcuni dei prodotti sviluppati)
 
 1. Sviluppo Software  per il **CRM**  la gestione ticket di un laboratorio di acquisto e sostituzione parti di prodotti Apple, Samsung , HP etc. Il software e' stato sviluppato utilizzando la  soluzione Filemaker.
 2. Utilizzando i Web services esposti da Konga , [Software di gestione aziendale](https://www.easybyte.it/it),  e' stata implementata , con filemaker, una gestione del portfolio degli agenti di vendita.
