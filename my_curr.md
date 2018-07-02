@@ -18,12 +18,12 @@ Via P. Pozzi 16 , 00148 Roma
 
 1. Prof. di ruolo di informatica Istituto Tecnico Feltrinelli (Milano) (1975-80).
 2. Docente del Corso di Elettronica applicata serale, per studenti lavoratori, dell'istituto  di Fisica  dell' Università Statale di Milano (1976-80).
-3. Prof. di ruolo di informatica all'istituto Tecnico G. Ferraris (Roma ) e all'Istituto Tecnico Fermi  (Roma) (1980-92).
+3. Prof. di ruolo di informatica all'ITIS G. Ferraris (Roma ) e all'ITIS Fermi (Roma) (1980-92).
 
 
 #### Partecipazione a Convegni, Workshop:
 1. 1978 Congresso IFIP Toronto Canada.
-2. 2004 Convegno su piattaforme Python Budapest. 
+2. 2004 Convegno su piattaforme Python in particolar modo sul [CMS Plone](https://plone.org/)  Budapest. 
 3. 2007 Convegno Django ZURICH Svizzera.
 4. 2018 Partecipazione a diverse Pycon tenute a  Firenze , inclusa l'ultima.
 
