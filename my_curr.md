@@ -4,7 +4,8 @@ Anagrafica:
 
 - Nome: Francesco 
 - Cognome : Luzio
-- Via P. Pozzi 16 , 00148 Roma
+- Nato a Castrignano de' Greci (LE) il 2-4-1948
+- Residente in Via P. Pozzi 16 , 00148 Roma
 - Tel: 338-8700020
 - e-mail : f.luzio@converge.it
 
