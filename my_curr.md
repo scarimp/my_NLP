@@ -26,7 +26,7 @@ Via P. Pozzi 16 , 00148 Roma
 1. 1978 Congresso IFIP Toronto Canada.
 2. 1978 Visita laboratori MIT a Boston (USA)
 3. 2004 Convegno su piattaforme Python in particolar modo sul [CMS Plone](https://plone.org/)  Budapest. 
-4. 2007 Convegno Django ,  ZURICH Svizzera.
+4. 2007 Convegno Django ,  Zurich Svizzera.
 5. 2018 Partecipazione a diverse [Pycon](https://www.pycon.it/en/) tenute a  Firenze , inclusa l'ultima.
 
 
