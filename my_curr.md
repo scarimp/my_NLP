@@ -18,7 +18,7 @@ Via P. Pozzi 16 , 00148 Roma
 # Didattica:
 
 1. Prof. di ruolo di informatica Istituto Tecnico Feltrinelli (Milano) (1975-80).
-2. Docente del Corso di Elettronica applicata serale, per studenti lavoratori, dell'istituto  di Fisica  dell' Università Statale di Milano (1976-80).
+2. Docente del Corso di Elettronica applicata serale, per studenti lavoratori, tenuto all'istituto  di Fisica  dell' Università Statale di Milano (1976-80).
 3. Prof. di ruolo di informatica all'ITIS G. Ferraris (Roma ) e all'ITIS Fermi (Roma) (1980-92).
 
 
