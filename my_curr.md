@@ -35,7 +35,7 @@ Via P. Pozzi 16 , 00148 Roma
 
 #### MULTIMEDIA CAD
 1. Ideazione coordinamento e creazione  (1997) di un CD Multimediale (1000 copie) sulla Grecia Salentina, commissionato dalla 
-Fondazione della Notte della Taranta. Utilizzo di vari  tools software , soprattutto Adobe (**Macromind Director , Photoshop , Adobe Illustrator**).
+Fondazione della **Notte della Taranta**. Utilizzo di vari  tools software , soprattutto Adobe (**Macromind Director , Photoshop , Adobe Illustrator**).
 2. Creazione di prodotti e servizi  (1992-2000) per studi di Architettura e/o  Ingegneria basate su prodotti **Cad** (Radar e Autocad).
 3. Produzione di documentazione tecnica e manualistica in vari formati (PDF DOC TXT) ,  utilizzando  Schemas XML  e DDT forniti dal framework [Docbook](https://docbook.org/whatis).
 
