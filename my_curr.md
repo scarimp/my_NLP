@@ -41,11 +41,11 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 1. Sviluppo Software  peril **CRM**  la gestione ticket di un laboratorio di acquisto e sostituzione parti di prodotti Apple, Samsung , HP etc. Il software e' stato sviluppato utilizzando la  soluzione Filemaker.
 2. Utilizzando i Web services esposti da Konga , [Software di gestione aziendale](https://www.easybyte.it/it),  e' stata implementata , con filemaker, una gestione del portfolio degli agenti di vendita.
-3. Utilizzo dei  Web services esposti da Konga ,per la creazione degli ordini MEPA  in manuale o quando possibile mediante file **XML** acclusi all'ordine . 
+3. Utilizzo dei  Web services esposti da Konga ,per la creazione degli ordini [MEPA](https://www.acquistinretepa.it/opencms/opencms/)  in manuale o quando possibile mediante file **XML** acclusi all'ordine . 
 
 #### WEB
 
-1. (2012)Creazione  [qui le motivazioni](http://web.idati.it/nascita_sic.html)) di [un'applicazione web](http://web.idati.it) utilizzando il framework [Web2py](http://web2py.com/); è stata sviluppata  l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con dati provenienti da  [l'indice PA](http://indicepa.gov.it/documentale/n-opendata.php) reso disponibile in opendata anche per Fatturazione Elettronica. Effettuata anche la visualizzazione tramite Mapbox di [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
+1. (2012)Creazione  [qui le motivazioni](http://web.idati.it/nascita_sic.html)) di [un'applicazione web](http://web.idati.it) utilizzando il framework [Web2py](http://web2py.com/); è stata sviluppata  l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con dati provenienti dalla piattaforma acquisti in rete  [l'indice PA](http://indicepa.gov.it/documentale/n-opendata.php) reso disponibile in opendata anche per Fatturazione Elettronica. Effettuata anche la visualizzazione tramite Mapbox di [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
 
 2. (2015-2016) Analisi-visualizzazione  di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a Grafana.
 3. (2017) Creazione su [Webfaction](https://www.webfaction.com/) di una applicazione **Node.js** per recupero dati (json) provenienti da [Sigfox](https://www.sigfox.com/en), un IOT service provider.
