@@ -9,15 +9,15 @@ Via P. Pozzi 16 , 00148 Roma
 
 # Studi compiuti:
 
-1. Diploma Liceo Classico
-2. Laurea Ing. Elettronica (spec. Telecomunicazioni) 
+1. Diploma Liceo Classico.
+2. Laurea Ing. Elettronica (spec. Telecomunicazioni). 
 3. Tesi in Cibernetica sviluppata c/o il Laboratorio di Arco Felice dell'Università di Napoli.
 
 
 # Didattica:
 
-1. Prof. di ruolo di informatica Istituto Tecnico Feltrinelli (Milano) (1975-80)
-2. Docente del Corso di Elettronica applicata serale,   per studenti lavoratori, dell' Universita di Fisica  (Università Statale di Milano (1976-80))
+1. Prof. di ruolo di informatica Istituto Tecnico Feltrinelli (Milano) (1975-80).
+2. Docente del Corso di Elettronica applicata serale,   per studenti lavoratori, dell' Universita di Fisica  (Università Statale di Milano (1976-80)).
 
 
 #### Partecipazione a Convegni, Workshop:
