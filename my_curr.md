@@ -16,7 +16,7 @@ Via P. Pozzi 16 , 00148 Roma
 1. 1978 Congresso IFIP Toronto Canada.
 2. 2004 Convegno su piattaforme Python Budapest. 
 3. 2007 Convegno Django ZURICH Svizzera.
-4  2018 Pycon 9 Firenze.
+4.  2018 Pycon 9 Firenze.
 
 
 
