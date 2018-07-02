@@ -23,5 +23,8 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 
 #### WEB
+1. Creazione (2012) di un'applicazione web (http://www.lumutu.it/SIC/default/index//) utilizzando il framework Web2py, per l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con l'anagrafe delle Socierta pubbliche reso disponibile per la nascente Fatturazione Elettronica.
 
-1. Visualizzazione di **Time Series** su Grafana [sensori tem/press-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). Fa parte di un piccolo e classico progetto su IOT per una serie di misure su una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb] che fa da Data Source per Grafana.
+
+
+2. Visualizzazione di **Time Series** su Grafana [sensori tem/press-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). Fa parte di un piccolo e classico progetto su IOT per una serie di misure su una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb] che fa da Data Source per Grafana.
