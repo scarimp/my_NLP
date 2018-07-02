@@ -39,9 +39,9 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 #### FILEMAKER
 
-1. Sviluppo Software  per la gestione ticket di un laboratorio di acquisto e sostituzione parti di prodotti Apple, Samsung , HP etc. Il software e' stato sviluppato utilizzando la  soluzione Filemaker.
+1. Sviluppo Software  peril **CRM**  la gestione ticket di un laboratorio di acquisto e sostituzione parti di prodotti Apple, Samsung , HP etc. Il software e' stato sviluppato utilizzando la  soluzione Filemaker.
 2. Utilizzando i Web services esposti da Konga , [Software di gestione aziendale](https://www.easybyte.it/it),  e' stata implementata , con filemaker, una gestione del portfolio degli agenti di vendita.
-
+3. Utilizzo dei  Web services esposti da Konga ,per la creazione degli ordini MEPA  in manuale o quando possibile mediante file **XML** acclusi all'ordine . 
 
 #### WEB
 
