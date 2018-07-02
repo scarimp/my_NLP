@@ -44,7 +44,7 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 
 #### Proposte Progetti
 
-1. Esame caratteristiche **Qlik** -- **Qlik Sense** vs **Tableau** per la gestione di  un cruscotto aziendale su BI in generale e gestione portfolio agenti. 
+1. Esame caratteristiche **Qlik** -- **Qlik Sense** vs **Tableau** per la gestione di  un cruscotto aziendale su **BI** in generale e soprattutto su gestione portfolio agenti. 
 
 #### FILEMAKER (alcuni dei prodotti sviluppati).
 
