@@ -54,3 +54,6 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 
 3. (2015-2016) Analisi-visualizzazione  di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a Grafana.
 3. (2017) Creazione su [Webfaction](https://www.webfaction.com/) di una applicazione **Node.js** per recupero dati (json) provenienti da [Sigfox](https://www.sigfox.com/en), un IOT service provider.
+
+
+4. (2018) LORA specification; lorawan The Things Network
