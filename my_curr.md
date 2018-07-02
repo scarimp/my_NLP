@@ -26,7 +26,7 @@ Via P. Pozzi 16 , 00148 Roma
 1. 1978 Congresso IFIP Toronto Canada.
 2. 1978 Visita laboratori MIT a Boston (USA)
 3. 2004 Convegno su piattaforme Python in particolar modo sul [CMS Plone](https://plone.org/)  Budapest. 
-4. 2007 Convegno Django ZURICH Svizzera.
+4. 2007 Convegno Django ,  ZURICH Svizzera.
 5. 2018 Partecipazione a diverse [Pycon](https://www.pycon.it/en/) tenute a  Firenze , inclusa l'ultima.
 
 
@@ -45,7 +45,7 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 #### WEB
 
-1. (2012)Creazione  [qui le motivazioni](http://web.idati.it/nascita_sic.html)) di [un'applicazione web](http://web.idati.it) utilizzando il framework [Web2py](http://web2py.com/); è stata sviluppata  l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con dati provenienti dalla piattaforma acquisti in rete  [l'indice PA](http://indicepa.gov.it/documentale/n-opendata.php) reso disponibile in opendata anche per Fatturazione Elettronica. Effettuata anche la visualizzazione tramite Mapbox di [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
+1. (2012) Creazione  [qui le motivazioni](http://web.idati.it/nascita_sic.html)) di [un'applicazione web](http://web.idati.it) utilizzando il framework [Web2py](http://web2py.com/); è stata sviluppata  l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con dati provenienti dalla piattaforma acquisti in rete  [l'indice PA](http://indicepa.gov.it/documentale/n-opendata.php) reso disponibile in opendata anche per Fatturazione Elettronica. Effettuata anche la visualizzazione tramite Mapbox di [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
 
 2. (2015-2016) Analisi-visualizzazione  di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a Grafana.
 3. (2017) Creazione su [Webfaction](https://www.webfaction.com/) di una applicazione **Node.js** per recupero dati (json) provenienti da [Sigfox](https://www.sigfox.com/en), un IOT service provider.
