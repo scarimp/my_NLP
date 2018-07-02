@@ -17,7 +17,8 @@ Via P. Pozzi 16 , 00148 Roma
 # Didattica:
 
 1. Prof. di ruolo di informatica Istituto Tecnico Feltrinelli (Milano) (1975-80).
-2. Docente del Corso di Elettronica applicata serale,   per studenti lavoratori, dell' Universita di Fisica  (Università Statale di Milano (1976-80)).
+2. Docente del Corso di Elettronica applicata serale, per studenti lavoratori, dell'istituto  di Fisica  dell' Università Statale di Milano (1976-80).
+3. Prof. di ruolo di informatica all'istituto Tecnico G. Ferraris (Roma ) e all'Istituto Tecnico Fermi  (Roma) (1980-92).
 
 
 #### Partecipazione a Convegni, Workshop:
@@ -41,9 +42,8 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 
 #### WEB
+
 1.  Creazione ([ 2012 qui le motivazioni](http://web.idati.it/nascita_sic.html)) di [un'applicazione web](http://web.idati.it) utilizzando il framework [Web2py](http://web2py.com/); è stata sviluppata  l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con l'anagrafe delle Società PA  reso disponibile per la nascente Fatturazione Elettronica.Effettuata anche la visualizzazione tramite Mapbox di [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
 
-
-
 2. Visualizzazione di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a Grafana.
-3. Creazione su [Webfaction](https://www.webfaction.com/) di una applicazione Node.js per recupero dati (json) provenienti da [Sigfox](https://www.sigfox.com/en) Sigfox, un IOT service provider.
+3. Creazione su [Webfaction](https://www.webfaction.com/) di una applicazione Node.js per recupero dati (json) provenienti da [Sigfox](https://www.sigfox.com/en), un IOT service provider.
