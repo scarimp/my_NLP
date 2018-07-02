@@ -7,7 +7,7 @@ Via P. Pozzi 16 , 00148 Roma
 - e-mail : f.luzio@converge.it
 
 
-## Studi compiuti:
+# Studi compiuti:
 
 1. Diploma Liceo Classico
 2. Laurea Ing. Elettronica (spec. Telecomunicazioni)
@@ -20,7 +20,7 @@ Via P. Pozzi 16 , 00148 Roma
 
 
 
-## Lavori,progetti effettuati:
+# Lavori,progetti effettuati:
 
 1. Ideazione coordinamento e creazione  (1997) di un CD Multimediale (1000 copie) sulla Grecia Salentina, commissionato dalla 
 Fondazione della Notte della Taranta. Utilizzo di vari  tools software , soprattutto Adobe (Macromind Director , Photoshop , Adobe Illustrator).
