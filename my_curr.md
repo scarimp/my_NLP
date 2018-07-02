@@ -17,7 +17,7 @@ Via P. Pozzi 16 , 00148 Roma
 # Didattica:
 
 1. Prof. di ruolo di informatica Istituto Tecnico Feltrinelli (Milano) (1975-80)
-2. Docente del Corso di Elettronica applicata serale,   per studenti lavoratori (Universita di Fisica  Statale di Milano (1976-80)
+2. Docente del Corso di Elettronica applicata serale,   per studenti lavoratori, dell' Universita di Fisica  (Università Statale di Milano (1976-80))
 
 
 #### Partecipazione a Convegni, Workshop:
