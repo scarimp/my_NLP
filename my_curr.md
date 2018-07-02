@@ -55,7 +55,7 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 
 2. (2014) Creazione di un'**ontologia** dell'anagrafe delle scuole italiane e [sua interrogazione endpoint](https://dydra.com/dyd_fra/scuole-pubbliche) tramite **Sparql**. Questa applicazione è stata sviluppato con una serie di tools tra cui [Openrefine](http://openrefine.org) e un plug-in sviluppato da [DERI](https://github.com/fadmaa/grefine-rdf-extension/downloads). 
 
-3. (2015-2016) Analisi-visualizzazione  di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a Grafana.
+3. (2015-2016) Analisi-visualizzazione  di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a [Grafana](https://grafana.com/dashboards).
 3. (2017) Creazione su [Webfaction](https://www.webfaction.com/) di una applicazione **Node.js** per recupero dati (json) provenienti da [Sigfox](https://www.sigfox.com/en), un IOT service provider utilizzando il device MKRFox1200 Weather Station.
 
 
