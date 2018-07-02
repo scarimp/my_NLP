@@ -23,7 +23,7 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 
 #### WEB
-1.  Creazione ([ 2012 qui le motivazioni](http://web.idati.it/nascita_sic.html)) di un'applicazione web (http://web.idati.it) utilizzando il framework Web2py; è stata sviluppata  l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con l'anagrafe delle Società pubbliche reso disponibile per la nascente Fatturazione Elettronica.Effettuata anche la visualizzazione tramite Mapbox di [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
+1.  Creazione ([ 2012 qui le motivazioni](http://web.idati.it/nascita_sic.html)) di [un'applicazione web](http://web.idati.it) utilizzando il framework Web2py; è stata sviluppata  l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con l'anagrafe delle Società pubbliche reso disponibile per la nascente Fatturazione Elettronica.Effettuata anche la visualizzazione tramite Mapbox di [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
 
 
 
