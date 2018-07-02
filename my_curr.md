@@ -11,7 +11,7 @@ Via P. Pozzi 16 , 00148 Roma
 
 1. Diploma Liceo Classico.
 2. Laurea Ing. Elettronica (spec. Telecomunicazioni). 
-3. Tesi in Cibernetica sviluppata c/o il Laboratorio di Arco Felice dell'Università di Napoli.
+3. Tesi in Cibernetica sviluppata c/o il Laboratorio di Cibernetica del CNR , sito in  Arco Felice (NA) .
 4. Articolo su ottimizzazione di una rete combinatoria (in collaborazione con la dott.ssa del Politecnico di Milano).
 
 
