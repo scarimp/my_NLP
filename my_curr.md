@@ -42,9 +42,10 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 2. Creazione di prodotti e servizi  (1992-2000) per studi di Architettura e/o  Ingegneria basate su prodotti **Cad** (Radar e Autocad).
 3. Produzione di documentazione tecnica e manualistica in vari formati (PDF DOC TXT) ,  utilizzando  Schemas **XML  e  DDT** forniti dal framework [Docbook](https://docbook.org/whatis).
 
-#### Proposte Progetti
+#### Proposte Progetti Studi
 
-1. Esame caratteristiche **Qlik** -- **Qlik Sense** vs **Tableau** per la gestione di  un cruscotto aziendale su **BI** in generale e soprattutto su gestione portfolio agenti. 
+1. Studio di Pentaho per una soluzione axiendale BI con [Pentaho](https://wiki.pentaho.com/), Gestione processi **ETL** con KETTLE:
+2. Esame caratteristiche **Qlik** -- **Qlik Sense** vs **Tableau** per la gestione di  un cruscotto aziendale su **BI** in generale e soprattutto su gestione portfolio agenti. 
 
 #### FILEMAKER (alcuni dei prodotti sviluppati).
 
