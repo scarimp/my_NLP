@@ -23,7 +23,7 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 
 #### WEB
-1. Creazione (2012) di un'applicazione web (http://www.lumutu.it/SIC/default/index//) utilizzando il framework Web2py, per l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con l'anagrafe delle Socierta pubbliche reso disponibile per la nascente Fatturazione Elettronica.Effettuata anche la visualizzazione tramite mapbox di alcune quwey [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
+1. Creazione (2012) di un'applicazione web (http://www.lumutu.it/SIC/default/index//) utilizzando il framework Web2py, per l'analisi dell'anagrafe delle Scuole Italiane su un datase reso disponibile dal Miur , incrociato con l'anagrafe delle Socierta pubbliche reso disponibile per la nascente Fatturazione Elettronica.Effettuata anche la visualizzazione tramite Mapbox di [alcune query](http://www.lumutu.it/SIC/2grado/el_sc_ITI).
 
 
 
