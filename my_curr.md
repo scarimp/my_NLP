@@ -45,4 +45,4 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 
 
-2. Visualizzazione di **Time Series** su Grafana [sensori tem/press-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a Grafana.
+2. Visualizzazione di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://corlysis.com/grafana/dashboard/db/anders_sigfox?orgId=620). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a Grafana.
