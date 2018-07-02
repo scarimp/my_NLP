@@ -42,6 +42,9 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 2. Creazione di prodotti e servizi  (1992-2000) per studi di Architettura e/o  Ingegneria basate su prodotti **Cad** (Radar e Autocad).
 3. Produzione di documentazione tecnica e manualistica in vari formati (PDF DOC TXT) ,  utilizzando  Schemas **XML  e  DDT** forniti dal framework [Docbook](https://docbook.org/whatis).
 
+#### Proposte Progetti
+
+1. Esame caratteristiche Qlik -----
 
 #### FILEMAKER (alcuni dei prodotti sviluppati).
 
