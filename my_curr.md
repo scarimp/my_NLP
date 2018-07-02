@@ -37,6 +37,8 @@ Via P. Pozzi 16 , 00148 Roma
 1. Ideazione coordinamento e creazione  (1997) di un CD Multimediale (1000 copie) sulla Grecia Salentina, commissionato dalla 
 Fondazione della Notte della Taranta. Utilizzo di vari  tools software , soprattutto Adobe (**Macromind Director , Photoshop , Adobe Illustrator**).
 2. Creazione di prodotti e servizi  (1992-2000) per studi di Architettura e/o  Ingegneria basate su prodotti **Cad** (Radar e Autocad).
+3. Produzione di documentazione tecnica e manualistica utilizzando il framework Docbook
+
 
 #### FILEMAKER
 
