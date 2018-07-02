@@ -19,7 +19,7 @@ Via P. Pozzi 16 , 00148 Roma
 
 1. Prof. di ruolo di informatica Istituto Tecnico Feltrinelli (Milano) (1975-80).
 2. Docente del Corso di Elettronica applicata serale, per studenti lavoratori, tenuto all'istituto  di Fisica  dell' Università Statale di Milano (1976-80).
-3. Prof. di ruolo di informatica all'ITIS G. Ferraris (Roma ) e all'ITIS Fermi (Roma) (1980-92).
+3. Prof. di ruolo di informatica all'ITIS G. Ferraris (Roma ) e all'ITIS E. Fermi (Roma) (1980-92).
 
 
 #### Partecipazione a Convegni, Workshop:
@@ -41,7 +41,7 @@ Fondazione della Notte della Taranta. Utilizzo di vari  tools software , sopratt
 
 1. Sviluppo Software  peril **CRM**  la gestione ticket di un laboratorio di acquisto e sostituzione parti di prodotti Apple, Samsung , HP etc. Il software e' stato sviluppato utilizzando la  soluzione Filemaker.
 2. Utilizzando i Web services esposti da Konga , [Software di gestione aziendale](https://www.easybyte.it/it),  e' stata implementata , con filemaker, una gestione del portfolio degli agenti di vendita.
-3. Utilizzo dei  Web services esposti da Konga ,per la creazione degli ordini [MEPA](https://www.acquistinretepa.it/opencms/opencms/)  in manuale o quando possibile mediante file **XML** acclusi all'ordine . 
+3. Utilizzo dei  Web services esposti da Konga ,per la creazionein Konga  degli ordini [MEPA](https://www.acquistinretepa.it/opencms/opencms/)  in manuale o quando possibile mediante file **XML** acclusi all'ordine . 
 
 #### WEB
 
