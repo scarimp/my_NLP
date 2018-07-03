@@ -16,7 +16,7 @@ Anagrafica:
 
 2. Laurea Ing. Elettronica (spec. Telecomunicazioni). 
 
-3. Tesi in Cibernetica sviluppata c/o il Laboratorio di Cibernetica del CNR , che si trova ad   Arco Felice (NA) . Il titolo della tesi era: ["Funzioni Booleane linearmente separabili e parametri di Chow"](https://www.cs.cmu.edu/~odonnell/papers/chow-params.pdf), e trattava dei temi che oggi sono di moda nell'ambito del Machine Learning.
+3. Tesi in Cibernetica sviluppata c/o il Laboratorio di Cibernetica del CNR , che si trova ad   Arco Felice (NA) . Il titolo della tesi era: ["Funzioni Booleane linearmente separabili e parametri di Chow"](https://www.cs.cmu.edu/~odonnell/papers/chow-params.pdf), e trattava dei temi che oggi sono di moda nell'ambito del Machine Learning , vedi [qui](https://www.researchgate.net/publication/221591166_The_Chow_Parameters_Problem) e qui.
 
 4. (1978) Articolo pubblicato su Euromicro Journal dal titolo  "Behavioral description of microcomputers with the aid of PMS notation" (in collaborazione con la dott.ssa Giovanna Sami  del Politecnico di Milano e del Prof. G. Degli Antoni dell'Istituto di Fisica , Università di Milano).
 
