@@ -80,4 +80,4 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
   
   - Utilizzo della piattaforma Google [colaboratory] (https://research.google.com/colaboratory/faq.html) per reti "pesanti" (CNN , deeplearning  network).
   
-  - Conversational Chatbot ,  Vector Spaces, NLP usando classiche librerie come NLTK e soprattutto [Gensim](https://radimrehurek.com/gensim/about.html) utilizzando anche Dataset e Corpora in italiano .
+  - Conversational Chatbot ,  Vector Spaces, NLP usando classiche librerie come NLTK  Scikit-learn e soprattutto [Gensim](https://radimrehurek.com/gensim/about.html) utilizzando anche Dataset e Corpora in italiano .
