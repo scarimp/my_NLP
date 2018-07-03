@@ -18,7 +18,7 @@ Anagrafica:
 
 3. Tesi in Cibernetica sviluppata c/o il Laboratorio di Cibernetica del CNR , che si trova ad   Arco Felice (NA) . Il titolo della tesi era: ["Funzioni Booleane linearmente separabili e parametri di Chow"](https://www.cs.cmu.edu/~odonnell/papers/chow-params.pdf), e trattava dei temi che oggi sono di moda nell'ambito del Machine Learning.
 
-4. Articolo su ottimizzazione di una rete combinatoria (in collaborazione con la dott.ssa... del Politecnico di Milano).
+4. (1978) Articolo pubblicato su Euromicro Journal dal titolo  "Behavioral description of microcomputers with the aid of PMS notation" (in collaborazione con la dott.ssa Giovanna Sami  del Politecnico di Milano e del Prof. G. Degli Antoni dell'Istito di Fisica , Università di Milano).
 
 
 # Didattica:
