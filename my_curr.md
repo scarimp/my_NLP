@@ -51,7 +51,7 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 
 #### Proposte Progetti Studi
 
-1. (2008) Studio di Pentaho per una soluzione axiendale BI con [Pentaho](https://wiki.pentaho.com/), Gestione processi **ETL** con KETTLE:
+1. (2008) Studio di [Pentaho](https://wiki.pentaho.com/) per una soluzione aziendale BI con gestione processi **ETL** (con KETTLE):
 
 2. (2017) Esame caratteristiche **Qlik** -- **Qlik Sense** vs **Tableau** per la gestione di  un cruscotto aziendale su **BI** in generale e soprattutto su gestione portfolio agenti. 
 
