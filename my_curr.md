@@ -77,4 +77,5 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 
 5. (2017-18) Studio Machine Learning e Deep Learning su tre direttive:
   - Programmi in Keras/Tensorflow savendo come riferimento principale  il [libro](https://www.manning.com/books/deep-learning-with-python) di F. Chollet.
-  - Utilizzo della piattaforma Google
+  - Utilizzo della piattaforma Google [colaboratory] (https://research.google.com/colaboratory/faq.html) per reti "pesanti" (CNN , deeplearning  network).
+  - Conversational Chatbot , NLP usando classiche librerie come NLTK e soprattutto [Gensim](https://radimrehurek.com/gensim/) per ottenere dei risultati dall'embedding sugli spazi vettoriali. 
