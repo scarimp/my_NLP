@@ -73,4 +73,4 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 
 3. (2017) Creazione su [Webfaction](https://www.webfaction.com/) di una applicazione **Node.js** per recupero dati (**json**) provenienti da [Sigfox](https://www.sigfox.com/en), un IOT service provider utilizzando il device MKRFox1200 Weather Station.
 
-4. (2018) LORA specification; lorawan The Things Network
+4. (2018) Collegamento device Raspberry 3 con  [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORA
