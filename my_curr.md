@@ -79,6 +79,6 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 
   * Programmi in Keras/Tensorflow avendo come riferimento principale  il [libro](https://www.manning.com/books/deep-learning-with-python) di F. Chollet.
   
-  * Utilizzo della piattaforma Google [colaboratory] (https://research.google.com/colaboratory/faq.html) per reti "pesanti" (CNN , deeplearning  networks).
+ * Utilizzo della piattaforma Google [colaboratory] (https://research.google.com/colaboratory/faq.html) per reti "pesanti" (CNN , deeplearning  networks).
   
-  * Conversational Chatbot, Vector Spaces, [Word2Vec from Mikolov et al. at Google](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)  usando classiche librerie come NLTK, Scikit-learn e soprattutto [Gensim](https://radimrehurek.com/gensim/about.html) : Attualmente ci sono dei programmi che utilizzando anche Dataset e Corpora in italiano .
+ * Conversational Chatbot, Vector Spaces, [Word2Vec from Mikolov et al. at Google](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)  usando classiche librerie come NLTK, Scikit-learn e soprattutto [Gensim](https://radimrehurek.com/gensim/about.html) : Attualmente ci sono dei programmi che utilizzando anche Dataset e Corpora in italiano .
