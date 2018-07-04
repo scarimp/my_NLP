@@ -76,9 +76,6 @@ Fondazione della [**Notte della Taranta**](https://it.wikipedia.org/wiki/Notte_d
 4. (2018) Collegamento device Raspberry 3 con  [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORAWAN.L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/), permette attualmente di effettuare servizi di Smart Metering su reti- wireless non proprietarie.
 
 5. (2017-18) Studio Machine Learning e Deep Learning con diversi obiettivi:
-
   * Programmi in Keras/Tensorflow avendo come riferimento principale  il [libro](https://www.manning.com/books/deep-learning-with-python) di F. Chollet.
-  
  * Utilizzo della piattaforma Google [colaboratory] (https://research.google.com/colaboratory/faq.html) per reti "pesanti" (CNN , deeplearning  networks).
-  
  * Conversational Chatbot, Vector Spaces, [Word2Vec from Mikolov et al. at Google](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)  usando classiche librerie come NLTK, Scikit-learn e soprattutto [Gensim](https://radimrehurek.com/gensim/about.html) : Attualmente ci sono dei programmi che utilizzando anche Dataset e Corpora in italiano .
