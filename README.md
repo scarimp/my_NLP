@@ -22,5 +22,5 @@ my_NLP
 
 
 
-#links visited on september 2019
+# links visited on september 2019
 [elmo et similia](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
