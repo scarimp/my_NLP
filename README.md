@@ -22,5 +22,6 @@ my_NLP
 
 
 
-# links visited on september 2019
-[elmo et similia](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
+# Links visited on september 2019
+1. [Elmo et similia](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
+2. [Transfer learning in NLP](https://medium.com/explorations-in-language-and-learning/transfer-learning-in-nlp-2d09c3dfaeb6)
