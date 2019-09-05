@@ -20,3 +20,7 @@ my_NLP
 2. Example my_3th_json_nlp.ipynb of data processing json. We want to highlight above all the phase of extraction and treatment with Pandas, of the tabular (vector) data contained in the data in json format. You can "view" here: 
 3. Example "toy" my__1first_toy_example.ipynb to better understand how a machine learning algorithm works. Example that runs on the Google golab platform. Use Tensorflow with tflearn. It currently does not work.To check.
 
+
+
+#links visited on september 2019
+[elmo et similia](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
