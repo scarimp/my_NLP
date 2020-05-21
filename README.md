@@ -22,6 +22,7 @@ my_NLP
 
 
 
-# Links visited on september 2019
+# Links visited on september 2019-2020
 1. [Elmo et similia](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
 2. [Transfer learning in NLP](https://medium.com/explorations-in-language-and-learning/transfer-learning-in-nlp-2d09c3dfaeb6)
+3. [BERT+  Named Entity Recognition](http://mccormickml.com/2020/05/19/existing-ner-tools/?utm_source=ActiveCampaign&utm_medium=email&utm_content=BERT+for+Named+Entity+Recognition&utm_campaign=Fine-Tuning+BERT+for+NER)
